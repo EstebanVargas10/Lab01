@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1b5d9b0980e579a6eb3689da2752706279f83ae8">
+        <dex dex="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e87dcbf5e7b833d6b13a3c407fe02c7f9078fd0a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_610f2c579e309a74dadea8f36285f86bca8b46ee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_9f85bad51e7a910d1a11cb3ed608178599242417/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="85ce7abcc9039940b2afef8c129f85830d382959">
+        <dex dex="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b8e5bd4c810a250f1c31c1ca1199fbdb271a12e4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_510bc5c16e5059e2f0b52ec3006b55033705cbeb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_8e96e02a7461b9ddcfe0443e126d1c25f103f9e4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_ce1556cf76567c8482ecd1dbc303a89ca8656362/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EV/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_16995ab4063723aca782b9a1b4b1c3d391aef0c5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_b08f2325f3f757646b8292fe2d01d5af9a37bbb4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/EV/Downloads/MyHiFace5-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_43205854198dda8662f58f4c4d4e807f54cfb226/classes.dex" />
+    </item>
+
+</items>
